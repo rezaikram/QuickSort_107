@@ -48,4 +48,6 @@ void q_short(int low, int high)
 	//OUther conntainning elements greather than pivot 
 	//Langkah Algoritma No.1
 
+	pivot = arr[low];		//Langkah ALgoritma No. 2
+
 	
