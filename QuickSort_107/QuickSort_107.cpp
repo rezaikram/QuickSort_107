@@ -53,4 +53,7 @@ void q_short(int low, int high)
 	i = low + 1;			//Langkah Algoritma No.3
 	j = high;				//Langkah Algoritma NO.4
 
-	
+	while (1 <= j)			///Langkah Algoritma No.5
+	{
+		//search for an element less than or equal to pivot 
+		
